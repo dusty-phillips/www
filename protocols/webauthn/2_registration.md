@@ -28,7 +28,7 @@ let registration = await navigator.credentials.create({ publicKey })
 ```
 
 There are many more options that can be used. This solely describes the most basic use case.
-If you run this snippet, a browser specific popup should appear and will ask to proove your identity. In my case (german locale) in looks like this:
+If you run this snippet, a browser specific popup should appear and will ask to prove your identity. In my case (german locale) in looks like this:
 
 
 ![registration example](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fapvecktcu1pohn61lwy.png) 
